@@ -1,4 +1,4 @@
-# s2i_data
+# S2I Translation Datasets
 
 Audiovisual data for Sound-to-Image (S2I) experiments.
 
